@@ -1,0 +1,4 @@
+module ActiveRecord::SessionStore
+end
+class ApplicationRecord < ActiveRecord::Base
+end
